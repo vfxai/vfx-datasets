@@ -61,7 +61,7 @@ This is a list of datasets which may be useful for machine learning applications
 * [RENOIR - A Dataset for Real Low-Light Image Noise Reduction](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
 * [Darmstadt Noise Dataset](https://noise.visinf.tu-darmstadt.de)
 
-## Simultation
+## Simulation
 * [John Hopkins Turbulence Databases](http://turbulence.pha.jhu.edu)
 
 ## Volumetric
