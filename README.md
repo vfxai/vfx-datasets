@@ -1,5 +1,5 @@
 # datasets
-This is a list of datasets which may be useful for machine learning applications in visual effects (VFX). Some of these are free for commercial use, others are not. So, please, take the time to read any associated license agreements before utilising one in your own project. Contributions and corrections welcome.
+This is a list of datasets and other resources which may be useful for machine learning applications in visual effects (VFX). Some of these are free for commercial use, others are not. So, please, take the time to read any associated license agreements before utilising one in your own project. Contributions, corrections, and curation welcome.
 
 [vfx.ai](http://vfx.ai)
 
@@ -17,6 +17,8 @@ This is a list of datasets which may be useful for machine learning applications
 * [Large Geometric Models Archive](https://www.cc.gatech.edu/projects/large_models/)
 * [The CAnonically Posed 3D Objects Dataset](https://sites.google.com/site/pgpapadakis/home/CAPOD)
 * [MIT CSAIL Textured Models Database](http://people.csail.mit.edu/tmertens/textransfer/data/)
+* [PASCAL3D+](http://cvgl.stanford.edu/projects/pascal3d.html)
+* [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/)
 
 ## Miscellaneous
 * [Robust Global Translations with 1DSfM](http://www.cs.cornell.edu/projects/1dsfm/)
@@ -33,6 +35,8 @@ This is a list of datasets which may be useful for machine learning applications
 * [Body Movement Library](http://paco.psy.gla.ac.uk/index.php?option=com_jdownloads&view=viewcategories&Itemid=62)
 * [KU Leuven Action Database](https://ppw.kuleuven.be/home/english/research/lep/resources/action)
 * [Emotional Body Motion Database](http://ebmdb.tuebingen.mpg.de/index.php)
+* [Multiple Human Pose Estimation dataset](http://campar.in.tum.de/Chair/MultiHumanPose)
+* [The Kinetics Human Action Video Dataset](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
 
 ### Eyes
 * [GazeCapture](http://gazecapture.csail.mit.edu)
@@ -40,6 +44,8 @@ This is a list of datasets which may be useful for machine learning applications
 * [MPIIGaze Dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/)
 * [High Quality Eye Capture Dataset](https://www.disneyresearch.com/publication/high-quality-capture-of-eyes/)
 * [SynthesEyes Dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/syntheseyes/)
+* [Kaggle Eye Gaze](https://www.kaggle.com/4quant/eye-gaze)
+* [YouTube Faces Dataset with Facial Keypoints](https://www.kaggle.com/selfishgene/youtube-faces-with-facial-keypoints)
 
 ### Face
 * [FaceWarehouse](http://gaps-zju.org/facewarehouse/)
@@ -53,6 +59,7 @@ This is a list of datasets which may be useful for machine learning applications
 * [Biwi Kinect Head Pose Database](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db)
 * [BU-3DFE, BU-4DFE, and BP4D-Spontaneous](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
 * [Eurecom Kinect Face Dataset](http://rgb-d.eurecom.fr)
+* [CMU Face Images Data Set](http://archive.ics.uci.edu/ml/datasets/cmu+face+images)
 
 ## Panoramas
 * [SUN360 panorama database](http://people.csail.mit.edu/jxiao/SUN360/)
@@ -60,6 +67,20 @@ This is a list of datasets which may be useful for machine learning applications
 ## Photography
 * [RENOIR - A Dataset for Real Low-Light Image Noise Reduction](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
 * [Darmstadt Noise Dataset](https://noise.visinf.tu-darmstadt.de)
+* [GOPRO deblur dataset](https://github.com/SeungjunNah/DeepDeblur_release)
+* [Kohler deblur dataset](http://webdav.is.mpg.de/pixel/benchmark4camerashake/)
+* [HDR image reconstruction from a single exposure using deep CNNs testset](http://hdrv.org/hdrcnn/material/testset/index.html)
+
+## Scenes
+* [SceneNet](https://robotvault.bitbucket.io)
+* [SUNCG](http://suncg.cs.princeton.edu)
+* [3D Indoor Scenes Database](https://toolkit.cit-ec.uni-bielefeld.de/datasets/3d-indoor-scenes-database)
+* [ScanNet](http://www.scan-net.org)
+
+## Shading
+* [MERL BRDF database](https://www.merl.com/brdf/)
+* [UTIA BTF database](http://btf.utia.cas.cz)
+* [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/software/curet/)
 
 ## Simulation
 * [John Hopkins Turbulence Databases](http://turbulence.pha.jhu.edu)
