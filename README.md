@@ -3,11 +3,17 @@ This is a list of datasets and other resources which may be useful for machine l
 
 [vfx.ai](http://vfx.ai)
 
-## Compositing
+## 2D/Compositing
 * [Alpha Matting dataset](http://alphamatting.com/datasets.php)
 * [Common Objects in Context (COCO)](http://cocodataset.org/#explore)
 * [Video Matting dataset](http://videomatting.com/#datasets)
 * [Deep Automatic Portrait Mapping dataset](http://www.cse.cuhk.edu.hk/leojia/projects/automatting/index.html)
+* [MSRA10K Salient Object Database](http://mmcheng.net/msra10k/)
+* [MPI Sintel Optical Flow Dataset](http://sintel.is.tue.mpg.de)
+* [Flying Chairs Optical Flow Dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html)
+
+## Crowd Simulation
+* [CUHK Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/CUHKcrowd_files/cuhk_crowd_dataset.htm)
 
 ## Models
 * [ShapeNet](https://www.shapenet.org)
@@ -22,6 +28,7 @@ This is a list of datasets and other resources which may be useful for machine l
 
 ## Miscellaneous
 * [Robust Global Translations with 1DSfM](http://www.cs.cornell.edu/projects/1dsfm/)
+* [CMP Facade database](http://cmp.felk.cvut.cz/~tylecr1/facade/)
 
 ## Motion Capture
 
@@ -37,6 +44,8 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Emotional Body Motion Database](http://ebmdb.tuebingen.mpg.de/index.php)
 * [Multiple Human Pose Estimation dataset](http://campar.in.tum.de/Chair/MultiHumanPose)
 * [The Kinetics Human Action Video Dataset](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
+* [UBC3V](https://github.com/ashafaei/ubc3v)
+* [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
 
 ### Eyes
 * [GazeCapture](http://gazecapture.csail.mit.edu)
@@ -60,6 +69,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [BU-3DFE, BU-4DFE, and BP4D-Spontaneous](http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
 * [Eurecom Kinect Face Dataset](http://rgb-d.eurecom.fr)
 * [CMU Face Images Data Set](http://archive.ics.uci.edu/ml/datasets/cmu+face+images)
+* [Large Scale Facial Model](https://ibug.doc.ic.ac.uk/resources/lsfm/)
 
 ## Panoramas
 * [SUN360 panorama database](http://people.csail.mit.edu/jxiao/SUN360/)
@@ -77,10 +87,12 @@ This is a list of datasets and other resources which may be useful for machine l
 * [3D Indoor Scenes Database](https://toolkit.cit-ec.uni-bielefeld.de/datasets/3d-indoor-scenes-database)
 * [ScanNet](http://www.scan-net.org)
 
-## Shading
+## Shading / Lighting
 * [MERL BRDF database](https://www.merl.com/brdf/)
 * [UTIA BTF database](http://btf.utia.cas.cz)
 * [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/software/curet/)
+* [Weather and Illumination Database](http://www1.cs.columbia.edu/CAVE/software/wild/index.php)
+* [Fabrics Dataset](https://ibug.doc.ic.ac.uk/resources/fabrics/)
 
 ## Simulation
 * [John Hopkins Turbulence Databases](http://turbulence.pha.jhu.edu)
