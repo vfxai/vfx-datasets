@@ -11,6 +11,11 @@ This is a list of datasets and other resources which may be useful for machine l
 * [MSRA10K Salient Object Database](http://mmcheng.net/msra10k/)
 * [MPI Sintel Optical Flow Dataset](http://sintel.is.tue.mpg.de)
 * [Flying Chairs Optical Flow Dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html)
+* [RENOIR - A Dataset for Real Low-Light Image Noise Reduction](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
+* [Darmstadt Noise Dataset](https://noise.visinf.tu-darmstadt.de)
+* [GOPRO deblur dataset](https://github.com/SeungjunNah/DeepDeblur_release)
+* [Kohler deblur dataset](http://webdav.is.mpg.de/pixel/benchmark4camerashake/)
+* [HDR image reconstruction from a single exposure using deep CNNs testset](http://hdrv.org/hdrcnn/material/testset/index.html)
 
 ## Crowd Simulation
 * [CUHK Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/CUHKcrowd_files/cuhk_crowd_dataset.htm)
@@ -29,6 +34,8 @@ This is a list of datasets and other resources which may be useful for machine l
 ## Miscellaneous
 * [Robust Global Translations with 1DSfM](http://www.cs.cornell.edu/projects/1dsfm/)
 * [CMP Facade database](http://cmp.felk.cvut.cz/~tylecr1/facade/)
+* [SUN360 panorama database](http://people.csail.mit.edu/jxiao/SUN360/)
+
 
 ## Motion Capture
 
@@ -70,16 +77,6 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Eurecom Kinect Face Dataset](http://rgb-d.eurecom.fr)
 * [CMU Face Images Data Set](http://archive.ics.uci.edu/ml/datasets/cmu+face+images)
 * [Large Scale Facial Model](https://ibug.doc.ic.ac.uk/resources/lsfm/)
-
-## Panoramas
-* [SUN360 panorama database](http://people.csail.mit.edu/jxiao/SUN360/)
-
-## Photography
-* [RENOIR - A Dataset for Real Low-Light Image Noise Reduction](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
-* [Darmstadt Noise Dataset](https://noise.visinf.tu-darmstadt.de)
-* [GOPRO deblur dataset](https://github.com/SeungjunNah/DeepDeblur_release)
-* [Kohler deblur dataset](http://webdav.is.mpg.de/pixel/benchmark4camerashake/)
-* [HDR image reconstruction from a single exposure using deep CNNs testset](http://hdrv.org/hdrcnn/material/testset/index.html)
 
 ## Scenes
 * [SceneNet](https://robotvault.bitbucket.io)
