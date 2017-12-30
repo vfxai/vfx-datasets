@@ -37,6 +37,8 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Robust Global Translations with 1DSfM](http://www.cs.cornell.edu/projects/1dsfm/)
 * [CMP Facade database](http://cmp.felk.cvut.cz/~tylecr1/facade/)
 * [SUN360 panorama database](http://people.csail.mit.edu/jxiao/SUN360/)
+* [Image Aesthetic Visual Analysis (AVA)](https://github.com/shubhamchaudhary/aesthetics)
+* [CUHKPQ Photo quality dataset](http://mmlab.ie.cuhk.edu.hk/archive/CUHKPQ/Dataset.htm)
 
 
 ## Motion Capture
@@ -67,6 +69,11 @@ This is a list of datasets and other resources which may be useful for machine l
 * [SynthesEyes Dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/syntheseyes/)
 * [Kaggle Eye Gaze](https://www.kaggle.com/4quant/eye-gaze)
 * [YouTube Faces Dataset with Facial Keypoints](https://www.kaggle.com/selfishgene/youtube-faces-with-facial-keypoints)
+* [Swirski pupil dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/pupiltracking/)
+* [ExCuSe/ElSe pupil datasets](http://www.ti.uni-tuebingen.de/Pupil-detection.1827.0.html)
+* [Labeled pupils in the wild (LPW)](https://perceptual.mpi-inf.mpg.de/research/datasets/)
+* [Osnabruck gaze dataset](https://portal.ikw.uni-osnabrueck.de/~cv/index.php?open=projects/mm-mkv)
+* [Closed Eyes In The Wild (CEW)](http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html)
 
 ### Face
 * [FaceWarehouse](http://gaps-zju.org/facewarehouse/)
