@@ -1,13 +1,14 @@
 # datasets
 This is a list of datasets and other resources which may be useful for machine learning applications in visual effects (VFX). Some of these are free for commercial use, others are not. So, please, take the time to read any associated license agreements before utilising one in your own project. Contributions, corrections, and curation welcome.
 
-[vfx.ai](http://vfx.ai)
+[vfx.ai](http://vfx.ai/2017/12/vfx-datasets/)
 
 ## 2D/Compositing
 * [Alpha Matting dataset](http://alphamatting.com/datasets.php)
 * [Common Objects in Context (COCO)](http://cocodataset.org/#explore)
 * [Video Matting dataset](http://videomatting.com/#datasets)
 * [Deep Automatic Portrait Mapping dataset](http://www.cse.cuhk.edu.hk/leojia/projects/automatting/index.html)
+* [PortraitFCN](http://xiaoyongshen.me/webpage_portrait/index.html)
 * [MSRA10K Salient Object Database](http://mmcheng.net/msra10k/)
 * [MPI Sintel Optical Flow Dataset](http://sintel.is.tue.mpg.de)
 * [Flying Chairs Optical Flow Dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html)
@@ -16,6 +17,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [GOPRO deblur dataset](https://github.com/SeungjunNah/DeepDeblur_release)
 * [Kohler deblur dataset](http://webdav.is.mpg.de/pixel/benchmark4camerashake/)
 * [HDR image reconstruction from a single exposure using deep CNNs testset](http://hdrv.org/hdrcnn/material/testset/index.html)
+* [NYU Depth Dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 
 ## Crowd Simulation
 * [CUHK Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/CUHKcrowd_files/cuhk_crowd_dataset.htm)
@@ -53,6 +55,9 @@ This is a list of datasets and other resources which may be useful for machine l
 * [The Kinetics Human Action Video Dataset](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
 * [UBC3V](https://github.com/ashafaei/ubc3v)
 * [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
+* [MoSh Dataset](http://mosh.is.tue.mpg.de)
+* [JHMDB Dataset](http://jhmdb.is.tue.mpg.de)
+* [Penn Action Dataset](http://dreamdragon.github.io/PennAction/)x
 
 ### Eyes
 * [GazeCapture](http://gazecapture.csail.mit.edu)
