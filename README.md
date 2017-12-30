@@ -57,7 +57,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
 * [MoSh Dataset](http://mosh.is.tue.mpg.de)
 * [JHMDB Dataset](http://jhmdb.is.tue.mpg.de)
-* [Penn Action Dataset](http://dreamdragon.github.io/PennAction/)x
+* [Penn Action Dataset](http://dreamdragon.github.io/PennAction/)
 
 ### Eyes
 * [GazeCapture](http://gazecapture.csail.mit.edu)
