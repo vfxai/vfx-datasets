@@ -18,6 +18,9 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Kohler deblur dataset](http://webdav.is.mpg.de/pixel/benchmark4camerashake/)
 * [HDR image reconstruction from a single exposure using deep CNNs testset](http://hdrv.org/hdrcnn/material/testset/index.html)
 * [NYU Depth Dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+* [Make3D](http://make3d.cs.cornell.edu/data.html)
+* [Berkeley Segmentation Dataset (BSDS500)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
+* [ADE20K segmentation dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 
 ## Crowd Simulation
 * [CUHK Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/CUHKcrowd_files/cuhk_crowd_dataset.htm)
