@@ -1,4 +1,4 @@
-# datasets
+# vfx-datasets
 This is a list of datasets and other resources which may be useful for machine learning applications in visual effects (VFX). Some of these are free for commercial use, others are not. So, please, take the time to read any associated license agreements before utilising one in your own project. Contributions, corrections, and curation welcome.
 
 <p align="center">
