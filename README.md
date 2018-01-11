@@ -1,7 +1,9 @@
 # datasets
 This is a list of datasets and other resources which may be useful for machine learning applications in visual effects (VFX). Some of these are free for commercial use, others are not. So, please, take the time to read any associated license agreements before utilising one in your own project. Contributions, corrections, and curation welcome.
 
-[vfx.ai](http://vfx.ai/2017/12/vfx-datasets/)
+<p align="center">
+  <a href="http://vfx.ai/2017/12/vfx-datasets/"><img src="http://vfx.ai/wp-content/uploads/2018/01/gears-152-256083.png?raw=true" alt="vfx.ai"/></a>
+</p>
 
 ## 2D/Compositing
 * [Alpha Matting dataset](http://alphamatting.com/datasets.php)
