@@ -27,16 +27,24 @@ This is a list of datasets and other resources which may be useful for machine l
 ## Crowd Simulation
 * [CUHK Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/CUHKcrowd_files/cuhk_crowd_dataset.htm)
 
-## Models
+## Modeling
+
+### Models
 * [ShapeNet](https://www.shapenet.org)
 * [ModelNet](http://modelnet.cs.princeton.edu)
 * [Shape Retrival Contest (SHREC) Datasets](http://tosca.cs.technion.ac.il/book/shrec.html)
-* [TOSCA high-resolution and Non-rigid world](http://tosca.cs.technion.ac.il/book/resources_data.html)
 * [Large Geometric Models Archive](https://www.cc.gatech.edu/projects/large_models/)
 * [The CAnonically Posed 3D Objects Dataset](https://sites.google.com/site/pgpapadakis/home/CAPOD)
 * [MIT CSAIL Textured Models Database](http://people.csail.mit.edu/tmertens/textransfer/data/)
-* [PASCAL3D+](http://cvgl.stanford.edu/projects/pascal3d.html)
 * [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/)
+
+### Nonrigid alignment
+* [FAUST](http://faust.is.tue.mpg.de)
+* [TOSCA high-resolution and Non-rigid world](http://tosca.cs.technion.ac.il/book/resources_data.html)
+
+### Pose estimation
+* [PASCAL3D+](http://cvgl.stanford.edu/projects/pascal3d.html)
+
 
 ## Miscellaneous
 * [Robust Global Translations with 1DSfM](http://www.cs.cornell.edu/projects/1dsfm/)
@@ -94,6 +102,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Eurecom Kinect Face Dataset](http://rgb-d.eurecom.fr)
 * [CMU Face Images Data Set](http://archive.ics.uci.edu/ml/datasets/cmu+face+images)
 * [Large Scale Facial Model](https://ibug.doc.ic.ac.uk/resources/lsfm/)
+* [TOSCA Human Face](http://tosca.cs.technion.ac.il/book/resources_data.html)
 
 ## Scenes
 * [SceneNet](https://robotvault.bitbucket.io)
