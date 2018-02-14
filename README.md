@@ -103,6 +103,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [CMU Face Images Data Set](http://archive.ics.uci.edu/ml/datasets/cmu+face+images)
 * [Large Scale Facial Model](https://ibug.doc.ic.ac.uk/resources/lsfm/)
 * [TOSCA Human Face](http://tosca.cs.technion.ac.il/book/resources_data.html)
+* [300 Faces In-the-Wild Challenge (300-W)](https://ibug.doc.ic.ac.uk/resources/300-W/)
 
 ## Scenes
 * [SceneNet](https://robotvault.bitbucket.io)
