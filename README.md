@@ -23,6 +23,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Make3D](http://make3d.cs.cornell.edu/data.html)
 * [Berkeley Segmentation Dataset (BSDS500)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 * [ADE20K segmentation dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
+* [Middlebury Optical Flow](http://vision.middlebury.edu/flow/data/)
 
 ## Crowd Simulation
 * [CUHK Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/CUHKcrowd_files/cuhk_crowd_dataset.htm)
@@ -37,6 +38,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [The CAnonically Posed 3D Objects Dataset](https://sites.google.com/site/pgpapadakis/home/CAPOD)
 * [MIT CSAIL Textured Models Database](http://people.csail.mit.edu/tmertens/textransfer/data/)
 * [Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/)
+* [Redwood - A Large Dataset of Object Scans](http://redwood-data.org/3dscan/)
 
 ### Nonrigid alignment
 * [FAUST](http://faust.is.tue.mpg.de)
@@ -45,6 +47,8 @@ This is a list of datasets and other resources which may be useful for machine l
 ### Pose estimation
 * [PASCAL3D+](http://cvgl.stanford.edu/projects/pascal3d.html)
 
+### People
+* [CAESAR](https://store.sae.org/caesar/)
 
 ## Miscellaneous
 * [Robust Global Translations with 1DSfM](http://www.cs.cornell.edu/projects/1dsfm/)
@@ -103,6 +107,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [CMU Face Images Data Set](http://archive.ics.uci.edu/ml/datasets/cmu+face+images)
 * [Large Scale Facial Model](https://ibug.doc.ic.ac.uk/resources/lsfm/)
 * [TOSCA Human Face](http://tosca.cs.technion.ac.il/book/resources_data.html)
+* [Dynamic 3D Facial Action Coding System (D3DFACS) Database](http://www.cs.bath.ac.uk/~dpc/D3DFACS/)
 
 ## Scenes
 * [SceneNet](https://robotvault.bitbucket.io)
@@ -116,6 +121,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/software/curet/)
 * [Weather and Illumination Database](http://www1.cs.columbia.edu/CAVE/software/wild/index.php)
 * [Fabrics Dataset](https://ibug.doc.ic.ac.uk/resources/fabrics/)
+* [MIT Intrinsic Images](http://www.cs.toronto.edu/~rgrosse/intrinsic/)
 
 ## Simulation
 * [John Hopkins Turbulence Databases](http://turbulence.pha.jhu.edu)
