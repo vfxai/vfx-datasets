@@ -24,9 +24,16 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Berkeley Segmentation Dataset (BSDS500)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 * [ADE20K segmentation dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 * [Middlebury Optical Flow](http://vision.middlebury.edu/flow/data/)
+* [Learning To See In The Dark](http://web.engr.illinois.edu/%7Ecchen156/SID.html)
+* [ISTD Shadow Removal](https://github.com/DeepInsight-PCALab/ST-CGAN)
+* [SRD Shadow Removal](http://vision.sia.cn/our%20team/JiandongTian/JiandongTian.html)
+* [Open Images](https://storage.googleapis.com/openimages/web/index.html)
 
 ## Crowd Simulation
 * [CUHK Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/CUHKcrowd_files/cuhk_crowd_dataset.htm)
+
+## Hair / Fur
+* [USC-HairSalon](http://www-scf.usc.edu/~liwenhu/SHM/database.html)
 
 ## Modeling
 
@@ -77,6 +84,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [MoSh Dataset](http://mosh.is.tue.mpg.de)
 * [JHMDB Dataset](http://jhmdb.is.tue.mpg.de)
 * [Penn Action Dataset](http://dreamdragon.github.io/PennAction/)
+* [Dense Pose](http://densepose.org)
 
 ### Eyes
 * [GazeCapture](http://gazecapture.csail.mit.edu)
