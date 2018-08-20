@@ -24,10 +24,12 @@ This is a list of datasets and other resources which may be useful for machine l
 * [Berkeley Segmentation Dataset (BSDS500)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 * [ADE20K segmentation dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 * [Middlebury Optical Flow](http://vision.middlebury.edu/flow/data/)
+* [Middlebury Depth](http://vision.middlebury.edu/stereo/data/scenes2005/)
 * [Learning To See In The Dark](http://web.engr.illinois.edu/%7Ecchen156/SID.html)
 * [ISTD Shadow Removal](https://github.com/DeepInsight-PCALab/ST-CGAN)
 * [SRD Shadow Removal](http://vision.sia.cn/our%20team/JiandongTian/JiandongTian.html)
 * [Open Images](https://storage.googleapis.com/openimages/web/index.html)
+* [Falling Things](http://research.nvidia.com/publication/2018-06_Falling-Things)
 
 ## Crowd Simulation
 * [CUHK Crowd Dataset](http://www.ee.cuhk.edu.hk/~jshao/CUHKcrowd_files/cuhk_crowd_dataset.htm)
