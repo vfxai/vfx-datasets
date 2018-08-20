@@ -117,6 +117,7 @@ This is a list of datasets and other resources which may be useful for machine l
 * [TOSCA Human Face](http://tosca.cs.technion.ac.il/book/resources_data.html)
 * [300 Faces In-the-Wild Challenge (300-W)](https://ibug.doc.ic.ac.uk/resources/300-W/)
 * [Dynamic 3D Facial Action Coding System (D3DFACS) Database](http://www.cs.bath.ac.uk/~dpc/D3DFACS/)
+* [Mut1ny](http://www.mut1ny.com/face-headsegmentation-dataset)
 
 ## Scenes
 * [SceneNet](https://robotvault.bitbucket.io)
